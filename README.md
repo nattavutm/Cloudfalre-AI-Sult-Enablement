@@ -3,8 +3,9 @@
 Hands-on lab workshop: Deploy Cloudflare Zero Trust to protect employees from unauthorized external AI services.
 
 ## Module Request
-# Network Access (ZTNA)
-# Secure Web Gateway (SWG)
+**Network Access (ZTNA)**  
+**Secure Web Gateway (SWG)**  
+**Data Loss Prevention (DLP)**
 
 ## What You'll Build
 
