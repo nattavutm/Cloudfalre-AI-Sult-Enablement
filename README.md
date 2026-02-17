@@ -6,7 +6,7 @@ Hands-on lab workshop: Deploy Cloudflare Zero Trust to protect employees from un
 - **Zero Trust Network Access (ZTNA)**
 - **Secure Web Gateway (SWG)**
 - **Data Loss Prevention (DLP)**
-- **Cloudflare Browser Isolation**
+- **Cloudflare Browser Isolation (RBI)**
 
 ## What You'll Build
 
