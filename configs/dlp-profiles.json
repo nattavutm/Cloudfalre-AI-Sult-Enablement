@@ -1,0 +1,13 @@
+{
+    "description": "Sample DLP Profiles",
+    "profiles": [
+        {
+            "name": "PII Protection",
+            "type": "predefined",
+            "entries": [
+                "Credit Card",
+                "Social Security Number"
+            ]
+        }
+    ]
+}

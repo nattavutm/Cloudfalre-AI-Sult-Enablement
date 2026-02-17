@@ -1,0 +1,10 @@
+{
+  "description": "Sample Zero Trust Gateway Policies",
+  "policies": [
+    {
+      "name": "Block Personal AI",
+      "description": "Blocks access to unauthorized AI chat services",
+      "action": "block"
+    }
+  ]
+}

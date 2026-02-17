@@ -1,0 +1,4 @@
+<!-- Sample WARP Deployment Configuration -->
+<WarpConfiguration>
+  <OrganizationName>your-team-name</OrganizationName>
+</WarpConfiguration>
