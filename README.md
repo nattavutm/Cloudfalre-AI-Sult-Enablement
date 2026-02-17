@@ -14,7 +14,7 @@ Hands-on lab workshop: Deploy Cloudflare Zero Trust to protect employees from un
 - **Lab 2:** Configure Gateway policies to block unauthorized AI services
 - **Lab 3:** Implement Data Loss Prevention (DLP) for AI tools
 - **Lab 4:** Setup monitoring, alerts, and analytics
-- **Lab 5:** Create approved AI access with Browser Isolation
+- **Lab 5:** Secure access via Remote Browser Isolation (RBI)
 
 ## Workshop Modules
 
@@ -24,7 +24,7 @@ Hands-on lab workshop: Deploy Cloudflare Zero Trust to protect employees from un
 | 2 | [Block AI Services](./docs/02-block-ai-services.md) | 30 min |
 | 3 | [Data Loss Prevention](./docs/03-dlp-policies.md) | 30 min |
 | 4 | [Monitoring & Analytics](./docs/04-monitoring.md) | 20 min |
-| 5 | [Approved AI Access](./docs/05-approved-access.md) | 30 min |
+| 5 | [Approved AI Access (RBI)](./docs/05-approved-access.md) | 30 min |
 
 **Total Estimated Time:** 2 hours 10 minutes
 
@@ -149,9 +149,9 @@ To get the most out of this hands-on lab, please complete these steps **before**
 - Setup automated notifications (Email/Webhooks)
 - (Optional) Export logs to a SIEM
 
-### Module 5: Approved AI Access (30 min)
+### Module 5: Approved AI Access with RBI (30 min)
 - Define allowlist policies for approved AI tools
-- Configure Cloudflare Browser Isolation
+- Configure Cloudflare Remote Browser Isolation (RBI)
 - Implement identity-based and time-based access
 - Verify the secure isolation environment
 

@@ -1,4 +1,4 @@
-# Lab 5: Approved AI Access
+# Lab 5: Approved AI Access with RBI
 
 ## Introduction
 Provide secure, isolated access to approved AI tools.
