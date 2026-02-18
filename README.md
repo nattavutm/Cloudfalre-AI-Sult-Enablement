@@ -62,7 +62,6 @@ Hands-on lab workshop: Deploy Cloudflare Zero Trust to protect employees from un
 | 4 | [Approved AI Access with RBI](./docs/05-approved-access.md) |
 | 5 | [CASB for OpenAI & Anthropic](./docs/06-casb-ai-integrations.md) |
 
-> Optional: [Monitoring & Analytics](./docs/04-monitoring.md) for Gateway and DLP visibility.
 
 ## Detailed Learning Path
 
